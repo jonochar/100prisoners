@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/jleal/code/100_prisoners'
+g++ -o main main.cpp -std=c++11
+make: Leaving directory `/Users/jleal/code/100_prisoners'
+ 
